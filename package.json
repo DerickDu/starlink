@@ -14,7 +14,6 @@
     "d3-scale-chromatic": "^3.0.0",
     "d3-selection": "^3.0.0",
     "d3-time-format": "^4.1.0",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -45,5 +44,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://api.n2yo.com"
+  "proxy": "https://api.n2yo.com",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
