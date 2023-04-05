@@ -6,7 +6,7 @@ class Header extends Component {
     return (
       <header className="App-header">
         <img src={spacex_logo} className="App-logo" alt="logo" />
-        <p className="title">StarLink Tracker</p>
+        <p className="title">Uato - Space Watcher</p>
       </header>
     );
   }
